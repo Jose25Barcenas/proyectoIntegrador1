@@ -1,0 +1,66 @@
+body{
+   
+    background-image: url(imagen/playa-tropical_74190-188.avif);
+    background-attachment: fixed;
+}
+
+
+a{
+    text-decoration: none;
+    margin: 40px;
+    color:darkviolet;
+    
+}
+
+section{
+    padding-left: 400px;
+}
+
+
+.containerOne{
+    display: flex; 
+    
+}
+
+p{
+   padding-top: 100px;
+   width: 600px;
+}
+img{
+    object-fit: cover;
+    padding-top: 100px;
+    padding-left: 300px;
+    width: 600px;
+    height: 500px;
+}
+.bnh{
+    background-color:aqua;
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin: 4px 2px;
+    
+}
+
+.thg{
+    background-color:aqua;
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin: 4px 2px;
+}
+.yui{
+    background-color: aqua;
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin: 4px 2px;
+
+}
+
